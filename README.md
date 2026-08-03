@@ -9,18 +9,16 @@ The notebooks in `sourcecode/` model two primary variables:
 - `h`: water depth.
 - `u`: flow velocity.
 
-Available simulation scenarios:
+The experiments consider three benchmark problems for Boussinesq-type shallow water flow:
 
 - Wet-wet dam break.
 - Wet-dry dam break.
 - Undular bore.
 
-Training and optimization strategies included in the notebooks:
+These benchmark scenarios are adapted from the Boussinesq-type equation test cases discussed in Magdalena et al. (2024).
 
-- Baseline PINN training with AdamW.
-- Hybrid AdamW and L-BFGS training.
-- Bayesian Optimization with Optuna.
-- BOHB-style hyperparameter optimization.
+> Magdalena, I., Haloho, D. N., & Adityawan, M. B. (2024). *Numerical approaches for Boussinesq type equations with its application in Kampar River, Indonesia*. **Mathematics and Computers in Simulation**, 225, 820–834.
+
 
 ## Project Structure
 
