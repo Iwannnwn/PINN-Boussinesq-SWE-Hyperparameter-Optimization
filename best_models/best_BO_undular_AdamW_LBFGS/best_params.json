@@ -1,0 +1,12 @@
+{
+    "n_layers": 4,
+    "activation": "swish",
+    "units_layer_0": 122,
+    "units_layer_1": 54,
+    "units_layer_2": 42,
+    "units_layer_3": 119,
+    "lr_adamw": 0.00420320565662274,
+    "weight_decay_adamw": 1.0107417221169982e-06,
+    "lbfgs_memory": 19,
+    "lbfgs_tol": 1.703704861986987e-08
+}

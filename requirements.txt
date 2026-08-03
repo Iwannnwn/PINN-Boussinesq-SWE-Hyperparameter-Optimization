@@ -1,0 +1,8 @@
+numpy
+tensorflow
+matplotlib
+optuna
+plotly
+pandas
+jupyterlab
+ipykernel

@@ -1,0 +1,13 @@
+{
+    "n_layers": 5,
+    "activation": "tanh",
+    "units_layer_0": 72,
+    "units_layer_1": 53,
+    "units_layer_2": 114,
+    "units_layer_3": 43,
+    "units_layer_4": 92,
+    "lr_adamw": 0.004086341693267001,
+    "weight_decay_adamw": 2.74236249283038e-07,
+    "lbfgs_memory": 15,
+    "lbfgs_tol": 2.31905883058832e-08
+}

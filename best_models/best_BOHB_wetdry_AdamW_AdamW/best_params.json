@@ -1,0 +1,12 @@
+{
+    "n_layers": 4,
+    "activation": "tanh",
+    "units_layer_0": 90,
+    "units_layer_1": 47,
+    "units_layer_2": 47,
+    "units_layer_3": 37,
+    "lr_phase1": 0.005399484409787433,
+    "lr_phase2": 0.00015930522616241006,
+    "weight_decay_phase1": 0.000133112160807369,
+    "weight_decay_phase2": 1.152798712823239e-07
+}

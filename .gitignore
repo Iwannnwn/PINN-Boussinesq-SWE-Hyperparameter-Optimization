@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.python-version
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Packaging and build output
+build/
+dist/
+*.egg-info/
+
+# Test and coverage output
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+tmp/
+temp/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# TensorFlow/Keras generated training output
+logs/
+checkpoints/
+tensorboard/
+runs/
+
+# Large experiment artifacts are currently part of this project.
+# Uncomment these patterns if you want future Git history to exclude generated results.
+# best_models/
+# figures/
+# *.keras
+# *.h5
+# *.pkl

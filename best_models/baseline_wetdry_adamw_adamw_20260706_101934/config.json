@@ -1,0 +1,22 @@
+{
+    "scheme": "baseline_adamw_adamw",
+    "epochs_phase1": 1000,
+    "epochs_phase2": 500,
+    "learning_rate_phase1": 0.001,
+    "learning_rate_phase2": 0.0001,
+    "weight_decay_phase1": 0.0001,
+    "weight_decay_phase2": 1e-05,
+    "final_loss": 0.5722824931144714,
+    "final_pde": 0.0038321255706250668,
+    "final_ic": 0.014212118461728096,
+    "final_bc": 0.0003369170881342143,
+    "final_data": 0.28252342343330383,
+    "training_time_seconds": 260.59415756700037,
+    "save_dir": "/mnt/d/PINN Research_Iwan/CodeBaru/best_models/baseline_wetdry_adamw_adamw_20260706_101934",
+    "model_dir": "/mnt/d/PINN Research_Iwan/CodeBaru/best_models/baseline_wetdry_adamw_adamw_20260706_101934/models",
+    "fig_dir": "/mnt/d/PINN Research_Iwan/CodeBaru/best_models/baseline_wetdry_adamw_adamw_20260706_101934/figures",
+    "XMAX": 200.0,
+    "TMIN": 0.0,
+    "TMAX": 15.0,
+    "g": 9.81
+}
