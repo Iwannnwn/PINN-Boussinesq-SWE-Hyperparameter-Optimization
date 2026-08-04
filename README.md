@@ -94,7 +94,7 @@ If you use this repository, please cite:
 ```bibtex
 @article{Viadinguroho2026,
   author  = {Raden Aurelius Andhika Viadinguroho and Triwanto and Vincent Sie and Bandung Arry Sanjoyo and Chairul Imron and Didik Khusnul Arif},
-  title   = {Physics-Informed Neural Network for Boussinesq-type Shallow Water Equation: A Bayesian Hyperparameter Optimization Approach},
+  title   = {A Bayesian Optimization hyperparameter tuning of Physics-Informed Neural Network for Boussinesq-type Shallow Water Equation},
   year    = {2026}
 }
 ```
